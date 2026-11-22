@@ -89,6 +89,7 @@ Evaluating beam behavior often requires switching between hand calculations, spr
 ## Future Work
 
 * **3D Structural Analysis Version:** Extend the solver and interactive viewport into a full **3D version** supporting three-dimensional beams and space frames, six degrees of freedom per node ($U_x, U_y, U_z, R_x, R_y, R_z$), biaxial bending ($M_y, M_z$), and torsional shear ($T$).
+* Incorporating a plastic analysis feature to the tool, extending depth of analyses
 
 ## License
 
